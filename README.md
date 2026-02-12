@@ -1,16 +1,38 @@
-## Hi there 👋
+hi, i'm mahdy 👋
 
-<!--
-**Skmahdy/Skmahdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like building things on the internet.
 
-Here are some ideas to get you started:
+sometimes it's a small script, sometimes a saas idea,
+most of the time it's just me learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what you'll find here
+
+- random experiments
+- tools i needed and built
+- half-finished ideas
+- things i'm currently learning
+
+---
+
+### tech i use (depends on the mood)
+
+python • node • javascript  
+ai tools • automation • backend stuff  
+
+not loyal to any stack, just use what works.
+
+---
+
+### currently
+
+learning, building, breaking, fixing. repeat.
+
+---
+
+### why this github exists
+
+to document what i try and what i learn.  
+nothing polished, just progress.
+
